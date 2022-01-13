@@ -1,6 +1,6 @@
 # Projet-Festival
 
-*À noter : Les packages Flight et Smarty sont inclues au dossier `includes`
+*À noter : Les packages Flight et Smarty ne sont pas inclus. Il faut ajouter un dossier `includes` avec les dernières versions de flight et smarty
 
 ## _Connexion et inscription_
 
