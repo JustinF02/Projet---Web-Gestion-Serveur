@@ -1,0 +1,33 @@
+img{
+    max-width: 200px;
+    max-height: 200px;
+    padding: auto;
+    margin: auto;
+    
+}
+/* .ImageGroupe{
+    /* Il s'agit de la taille maximale d'une photo : 300 DPI */
+    /* max-height: 600px;
+    max-width: 800px; */
+} */
+.tableauListe{
+    border:2px solid black;
+    background-color: lightgray;
+}
+.tableauDetails{
+    border:2px solid black;
+    background-color: lightgray;
+    max-width: 100%;
+    text-align: left;
+}
+.entete{
+    padding-left: 30%;
+}
+.info{
+    width:50%;
+}
+#table_even tr:nth-child(odd) td { background-color:#fbfbfb } /*odd*/
+#table_even tr:nth-child(even) td { background-color:#cccccc } /* even*/
+
+#table_even tr:nth-child(odd) th { background-color:#fbfbfb } /*odd*/
+#table_even tr:nth-child(even) th { background-color:#cccccc } /* even*/
